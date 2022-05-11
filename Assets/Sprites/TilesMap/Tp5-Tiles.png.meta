@@ -1,0 +1,2839 @@
+fileFormatVersion: 2
+guid: 7e508bdc7eebfc0458f2358d8b6a5de0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4315781900966731848
+    second: Tp5-Tiles_0
+  - first:
+      213: 1471261288552062194
+    second: Tp5-Tiles_1
+  - first:
+      213: 4980157005283294850
+    second: Tp5-Tiles_2
+  - first:
+      213: -70336322141772559
+    second: Tp5-Tiles_3
+  - first:
+      213: 2272124724136155154
+    second: Tp5-Tiles_4
+  - first:
+      213: -5973796381761046799
+    second: Tp5-Tiles_5
+  - first:
+      213: 2822013664585775407
+    second: Tp5-Tiles_6
+  - first:
+      213: 1331372158551018201
+    second: Tp5-Tiles_7
+  - first:
+      213: 368119202115330988
+    second: Tp5-Tiles_8
+  - first:
+      213: -1917235936515866404
+    second: Tp5-Tiles_9
+  - first:
+      213: -3394433168544007841
+    second: Tp5-Tiles_10
+  - first:
+      213: 7598266155066860039
+    second: Tp5-Tiles_11
+  - first:
+      213: -14823241942647268
+    second: Tp5-Tiles_12
+  - first:
+      213: -4432430902278154182
+    second: Tp5-Tiles_13
+  - first:
+      213: 7401713144773631398
+    second: Tp5-Tiles_14
+  - first:
+      213: -4402952562277383794
+    second: Tp5-Tiles_15
+  - first:
+      213: -1071024897549994352
+    second: Tp5-Tiles_16
+  - first:
+      213: -7887921633133220738
+    second: Tp5-Tiles_17
+  - first:
+      213: 4620786749790033785
+    second: Tp5-Tiles_18
+  - first:
+      213: 4128911479546789808
+    second: Tp5-Tiles_19
+  - first:
+      213: -7847642119497294071
+    second: Tp5-Tiles_20
+  - first:
+      213: -5688666405822128354
+    second: Tp5-Tiles_21
+  - first:
+      213: 3732062435828328604
+    second: Tp5-Tiles_22
+  - first:
+      213: -4893138667994635498
+    second: Tp5-Tiles_23
+  - first:
+      213: 9167593718693163058
+    second: Tp5-Tiles_24
+  - first:
+      213: 2384048439694444387
+    second: Tp5-Tiles_25
+  - first:
+      213: 4096630673943944559
+    second: Tp5-Tiles_26
+  - first:
+      213: 2855226637360535827
+    second: Tp5-Tiles_27
+  - first:
+      213: -3580449121343962048
+    second: Tp5-Tiles_28
+  - first:
+      213: 195223961099368697
+    second: Tp5-Tiles_29
+  - first:
+      213: -5713786073179148193
+    second: Tp5-Tiles_30
+  - first:
+      213: -4282080004750875171
+    second: Tp5-Tiles_31
+  - first:
+      213: -7593835621827702460
+    second: Tp5-Tiles_32
+  - first:
+      213: -288068438941656071
+    second: Tp5-Tiles_33
+  - first:
+      213: -1443677934209596287
+    second: Tp5-Tiles_34
+  - first:
+      213: -1165697086192022928
+    second: Tp5-Tiles_35
+  - first:
+      213: -5699280031324370322
+    second: Tp5-Tiles_36
+  - first:
+      213: 4789620409921348826
+    second: Tp5-Tiles_37
+  - first:
+      213: -6426107261831214420
+    second: Tp5-Tiles_38
+  - first:
+      213: -243577201436508847
+    second: Tp5-Tiles_39
+  - first:
+      213: 7969646054830126417
+    second: Tp5-Tiles_40
+  - first:
+      213: 3885894004023168883
+    second: Tp5-Tiles_41
+  - first:
+      213: -5957476732777151699
+    second: Tp5-Tiles_42
+  - first:
+      213: -4494150335058634181
+    second: Tp5-Tiles_43
+  - first:
+      213: -1892094031623245757
+    second: Tp5-Tiles_44
+  - first:
+      213: -3571150958597022751
+    second: Tp5-Tiles_45
+  - first:
+      213: 9148500583425433134
+    second: Tp5-Tiles_46
+  - first:
+      213: 5886094634898225505
+    second: Tp5-Tiles_47
+  - first:
+      213: -4371224894702251284
+    second: Tp5-Tiles_48
+  - first:
+      213: 1889725684270554338
+    second: Tp5-Tiles_49
+  - first:
+      213: -5361360874907968805
+    second: Tp5-Tiles_50
+  - first:
+      213: -6685097180516669890
+    second: Tp5-Tiles_51
+  - first:
+      213: 8390713592294753864
+    second: Tp5-Tiles_52
+  - first:
+      213: 759006291882491115
+    second: Tp5-Tiles_53
+  - first:
+      213: 5053377678640990838
+    second: Tp5-Tiles_54
+  - first:
+      213: 1736111326688175806
+    second: Tp5-Tiles_55
+  - first:
+      213: -3089324040115593669
+    second: Tp5-Tiles_56
+  - first:
+      213: -7414497387544015116
+    second: Tp5-Tiles_57
+  - first:
+      213: 7276875373273935978
+    second: Tp5-Tiles_58
+  - first:
+      213: 1526803969151107890
+    second: Tp5-Tiles_59
+  - first:
+      213: -4345910375014511686
+    second: Tp5-Tiles_60
+  - first:
+      213: 2263062545108577861
+    second: Tp5-Tiles_61
+  - first:
+      213: -1693726470945740226
+    second: Tp5-Tiles_62
+  - first:
+      213: -3977408789074265051
+    second: Tp5-Tiles_63
+  - first:
+      213: 2249724274801301348
+    second: Tp5-Tiles_64
+  - first:
+      213: 2763698963078797024
+    second: Tp5-Tiles_65
+  - first:
+      213: 6552921204358088117
+    second: Tp5-Tiles_66
+  - first:
+      213: -6170377175256417125
+    second: Tp5-Tiles_67
+  - first:
+      213: -3737932671469819388
+    second: Tp5-Tiles_68
+  - first:
+      213: 904141000473218301
+    second: Tp5-Tiles_69
+  - first:
+      213: 6537462332090323878
+    second: Tp5-Tiles_70
+  - first:
+      213: 8268274280178423929
+    second: Tp5-Tiles_71
+  - first:
+      213: 747997080564516746
+    second: Tp5-Tiles_72
+  - first:
+      213: -7012122165740290215
+    second: Tp5-Tiles_73
+  - first:
+      213: 5070304689855461060
+    second: Tp5-Tiles_74
+  - first:
+      213: 2947139862519905000
+    second: Tp5-Tiles_75
+  - first:
+      213: 6403138929938674140
+    second: Tp5-Tiles_76
+  - first:
+      213: 6629777041912346073
+    second: Tp5-Tiles_77
+  - first:
+      213: 8098545614066311916
+    second: Tp5-Tiles_78
+  - first:
+      213: -4400823833299781139
+    second: Tp5-Tiles_79
+  - first:
+      213: -6462602074345992556
+    second: Tp5-Tiles_80
+  - first:
+      213: 1381330257635030470
+    second: Tp5-Tiles_81
+  - first:
+      213: 1976352621849548267
+    second: Tp5-Tiles_82
+  - first:
+      213: 2330159065707581996
+    second: Tp5-Tiles_83
+  - first:
+      213: -7830971438550676177
+    second: Tp5-Tiles_84
+  - first:
+      213: -3717826037738278239
+    second: Tp5-Tiles_85
+  - first:
+      213: 3887325414317090663
+    second: Tp5-Tiles_86
+  - first:
+      213: 88061853899850217
+    second: Tp5-Tiles_87
+  - first:
+      213: 5209677729698821882
+    second: Tp5-Tiles_88
+  - first:
+      213: -4839404721199090277
+    second: Tp5-Tiles_89
+  - first:
+      213: -5368050905463791436
+    second: Tp5-Tiles_90
+  - first:
+      213: -3815755522730607662
+    second: Tp5-Tiles_91
+  - first:
+      213: -5183541488233458581
+    second: Tp5-Tiles_92
+  - first:
+      213: 5319125358398951825
+    second: Tp5-Tiles_93
+  - first:
+      213: 7448031831499305663
+    second: Tp5-Tiles_94
+  - first:
+      213: 7206311218733135494
+    second: Tp5-Tiles_95
+  - first:
+      213: 7853591911773277350
+    second: Tp5-Tiles_96
+  - first:
+      213: 2310779072552955048
+    second: Tp5-Tiles_97
+  - first:
+      213: -2593745470128070793
+    second: Tp5-Tiles_98
+  - first:
+      213: -2022187088946099007
+    second: Tp5-Tiles_99
+  - first:
+      213: 7147873243325509299
+    second: Tp5-Tiles_100
+  - first:
+      213: 6861376135179704026
+    second: Tp5-Tiles_101
+  - first:
+      213: 2597916270946401140
+    second: Tp5-Tiles_102
+  - first:
+      213: 7421221401369011678
+    second: Tp5-Tiles_103
+  - first:
+      213: -4996107941071553490
+    second: Tp5-Tiles_104
+  - first:
+      213: -3140726620503782601
+    second: Tp5-Tiles_105
+  - first:
+      213: -6342678657091334213
+    second: Tp5-Tiles_106
+  - first:
+      213: 5267420965543178055
+    second: Tp5-Tiles_107
+  - first:
+      213: 8069282460789135126
+    second: Tp5-Tiles_108
+  - first:
+      213: 2746202629844283685
+    second: Tp5-Tiles_109
+  - first:
+      213: 6595222228087618034
+    second: Tp5-Tiles_110
+  - first:
+      213: 1351982266291707835
+    second: Tp5-Tiles_111
+  - first:
+      213: 7918438220232792639
+    second: Tp5-Tiles_112
+  - first:
+      213: -9221970617335534545
+    second: Tp5-Tiles_113
+  - first:
+      213: 2054798952841068085
+    second: Tp5-Tiles_114
+  - first:
+      213: 2648815947666738221
+    second: Tp5-Tiles_115
+  - first:
+      213: 2819802345530660256
+    second: Tp5-Tiles_116
+  - first:
+      213: -1682830859065354620
+    second: Tp5-Tiles_117
+  - first:
+      213: 5572382162452204517
+    second: Tp5-Tiles_118
+  - first:
+      213: 3109148515726166530
+    second: Tp5-Tiles_119
+  - first:
+      213: 8932010582512483781
+    second: Tp5-Tiles_120
+  - first:
+      213: 2032224243076580696
+    second: Tp5-Tiles_121
+  - first:
+      213: 1050861605432747344
+    second: Tp5-Tiles_122
+  - first:
+      213: 4388393080102339426
+    second: Tp5-Tiles_123
+  - first:
+      213: 3877505155434604652
+    second: Tp5-Tiles_124
+  - first:
+      213: 839213239691709446
+    second: Tp5-Tiles_125
+  - first:
+      213: -8647968887397662075
+    second: Tp5-Tiles_126
+  - first:
+      213: -6734135465223732739
+    second: Tp5-Tiles_127
+  - first:
+      213: -668853039685379911
+    second: Tp5-Tiles_128
+  - first:
+      213: 5949051450785200672
+    second: Tp5-Tiles_129
+  - first:
+      213: 6827550452477096731
+    second: Tp5-Tiles_130
+  - first:
+      213: 2575376206435515816
+    second: Tp5-Tiles_131
+  - first:
+      213: 7262797959507820664
+    second: Tp5-Tiles_132
+  - first:
+      213: 8510479304582103434
+    second: Tp5-Tiles_133
+  - first:
+      213: -8680705154767844152
+    second: Tp5-Tiles_134
+  - first:
+      213: 3741171422197587224
+    second: Tp5-Tiles_135
+  - first:
+      213: 1225680627707945108
+    second: Tp5-Tiles_136
+  - first:
+      213: -5293287102072977646
+    second: Tp5-Tiles_137
+  - first:
+      213: 5782632464168479920
+    second: Tp5-Tiles_138
+  - first:
+      213: -4673852030280531748
+    second: Tp5-Tiles_139
+  - first:
+      213: -5552640374041061232
+    second: Tp5-Tiles_140
+  - first:
+      213: -7425842928741562567
+    second: Tp5-Tiles_141
+  - first:
+      213: 6670304109155249820
+    second: Tp5-Tiles_142
+  - first:
+      213: 3379097993239289386
+    second: Tp5-Tiles_143
+  - first:
+      213: 7126339475414915113
+    second: Tp5-Tiles_144
+  - first:
+      213: -7938067125365714288
+    second: Tp5-Tiles_145
+  - first:
+      213: -215278476298907533
+    second: Tp5-Tiles_146
+  - first:
+      213: -1231230631364637769
+    second: Tp5-Tiles_147
+  - first:
+      213: -8435073715556533181
+    second: Tp5-Tiles_148
+  - first:
+      213: -340269390889916555
+    second: Tp5-Tiles_149
+  - first:
+      213: -743640300801718537
+    second: Tp5-Tiles_150
+  - first:
+      213: 4466592112423291155
+    second: Tp5-Tiles_151
+  - first:
+      213: -8184373950351928073
+    second: Tp5-Tiles_152
+  - first:
+      213: 273445091679561893
+    second: Tp5-Tiles_153
+  - first:
+      213: 2896041703287759322
+    second: Tp5-Tiles_154
+  - first:
+      213: 6192218773890995890
+    second: Tp5-Tiles_155
+  - first:
+      213: -8444181408567848773
+    second: Tp5-Tiles_156
+  - first:
+      213: -2843066525919438398
+    second: Tp5-Tiles_157
+  - first:
+      213: 4736882641363306167
+    second: Tp5-Tiles_158
+  - first:
+      213: -6407515523655452665
+    second: Tp5-Tiles_159
+  - first:
+      213: 1849587607132426850
+    second: Tp5-Tiles_160
+  - first:
+      213: 1538089884178679968
+    second: Tp5-Tiles_161
+  - first:
+      213: 1662236419295660929
+    second: Tp5-Tiles_162
+  - first:
+      213: 7652031623553415037
+    second: Tp5-Tiles_163
+  - first:
+      213: -8817598251418016166
+    second: Tp5-Tiles_164
+  - first:
+      213: -2688918703557290825
+    second: Tp5-Tiles_165
+  - first:
+      213: -8935854866144306766
+    second: Tp5-Tiles_166
+  - first:
+      213: -7196248435784377768
+    second: Tp5-Tiles_167
+  - first:
+      213: 5166956573885155793
+    second: Tp5-Tiles_168
+  - first:
+      213: -2560325398406395728
+    second: Tp5-Tiles_169
+  - first:
+      213: -238794971223300905
+    second: Tp5-Tiles_170
+  - first:
+      213: 3575126000450063526
+    second: Tp5-Tiles_171
+  - first:
+      213: -4243498796772670659
+    second: Tp5-Tiles_172
+  - first:
+      213: -7052303864684549733
+    second: Tp5-Tiles_173
+  - first:
+      213: -5488120068856548735
+    second: Tp5-Tiles_174
+  - first:
+      213: 1811188738068717336
+    second: Tp5-Tiles_175
+  - first:
+      213: -8021553796594798177
+    second: Tp5-Tiles_176
+  - first:
+      213: 2636545770778276938
+    second: Tp5-Tiles_177
+  - first:
+      213: -416522115119988156
+    second: Tp5-Tiles_178
+  - first:
+      213: 93608273181690135
+    second: Tp5-Tiles_179
+  - first:
+      213: -7213160911652408284
+    second: Tp5-Tiles_180
+  - first:
+      213: 4223058273962330155
+    second: Tp5-Tiles_181
+  - first:
+      213: -4984548799106202104
+    second: Tp5-Tiles_182
+  - first:
+      213: 5259112231388871644
+    second: Tp5-Tiles_183
+  - first:
+      213: 4900737568569054992
+    second: Tp5-Tiles_184
+  - first:
+      213: -2687656205334194229
+    second: Tp5-Tiles_185
+  - first:
+      213: 5715012539731795287
+    second: Tp5-Tiles_186
+  - first:
+      213: -8524773796153714961
+    second: Tp5-Tiles_187
+  - first:
+      213: 2440791903737431811
+    second: Tp5-Tiles_188
+  - first:
+      213: -7817788036552755084
+    second: Tp5-Tiles_189
+  - first:
+      213: 6785377103313967564
+    second: Tp5-Tiles_190
+  - first:
+      213: -6944078503336713064
+    second: Tp5-Tiles_191
+  - first:
+      213: -4303828569450866191
+    second: Tp5-Tiles_192
+  - first:
+      213: 3155587489249619093
+    second: Tp5-Tiles_193
+  - first:
+      213: -6525778599892661622
+    second: Tp5-Tiles_194
+  - first:
+      213: 8560452226980213083
+    second: Tp5-Tiles_195
+  - first:
+      213: 455584679934622911
+    second: Tp5-Tiles_196
+  - first:
+      213: -3160544520284461221
+    second: Tp5-Tiles_197
+  - first:
+      213: 5297002007875311161
+    second: Tp5-Tiles_198
+  - first:
+      213: 281072242043747202
+    second: Tp5-Tiles_199
+  - first:
+      213: -5328333004389346512
+    second: Tp5-Tiles_200
+  - first:
+      213: 6226448082825380117
+    second: Tp5-Tiles_201
+  - first:
+      213: -5604246962801061853
+    second: Tp5-Tiles_202
+  - first:
+      213: 7617492350198769360
+    second: Tp5-Tiles_203
+  - first:
+      213: 5687157552778094759
+    second: Tp5-Tiles_204
+  - first:
+      213: -8425053782803436708
+    second: Tp5-Tiles_205
+  - first:
+      213: 4700415941882785882
+    second: Tp5-Tiles_206
+  - first:
+      213: 7647393919801277914
+    second: Tp5-Tiles_207
+  - first:
+      213: 7548006308744387491
+    second: Tp5-Tiles_208
+  - first:
+      213: -5974633572709222236
+    second: Tp5-Tiles_209
+  - first:
+      213: -5785815356623176545
+    second: Tp5-Tiles_210
+  - first:
+      213: 1063960029683870006
+    second: Tp5-Tiles_211
+  - first:
+      213: 7095729562628437732
+    second: Tp5-Tiles_212
+  - first:
+      213: -87758745957671680
+    second: Tp5-Tiles_213
+  - first:
+      213: -1172569991043005654
+    second: Tp5-Tiles_214
+  - first:
+      213: -8982842770136381858
+    second: Tp5-Tiles_215
+  - first:
+      213: -6697965268515561662
+    second: Tp5-Tiles_216
+  - first:
+      213: 9078133539917721483
+    second: Tp5-Tiles_217
+  - first:
+      213: 6491382497681193258
+    second: Tp5-Tiles_218
+  - first:
+      213: -367733510336551132
+    second: Tp5-Tiles_219
+  - first:
+      213: -8339324950054899706
+    second: Tp5-Tiles_220
+  - first:
+      213: 51933216422626636
+    second: Tp5-Tiles_221
+  - first:
+      213: 7493126619769197234
+    second: Tp5-Tiles_222
+  - first:
+      213: 6834920443119514328
+    second: Tp5-Tiles_223
+  - first:
+      213: -4743358430573419855
+    second: Tp5-Tiles_224
+  - first:
+      213: -4673631425116123333
+    second: Tp5-Tiles_225
+  - first:
+      213: 4052278758263205858
+    second: Tp5-Tiles_226
+  - first:
+      213: -6145692935879891694
+    second: Tp5-Tiles_227
+  - first:
+      213: -8567268079205697545
+    second: Tp5-Tiles_228
+  - first:
+      213: 8058555277214372237
+    second: Tp5-Tiles_229
+  - first:
+      213: 2929858589907232602
+    second: Tp5-Tiles_230
+  - first:
+      213: -4585742442228279297
+    second: Tp5-Tiles_231
+  - first:
+      213: -279909749785592511
+    second: Tp5-Tiles_232
+  - first:
+      213: -943342463402071282
+    second: Tp5-Tiles_233
+  - first:
+      213: 1421879381407922985
+    second: Tp5-Tiles_234
+  - first:
+      213: -536941859103279079
+    second: Tp5-Tiles_235
+  - first:
+      213: 5707267673264296921
+    second: Tp5-Tiles_236
+  - first:
+      213: -3752840304386928388
+    second: Tp5-Tiles_237
+  - first:
+      213: -6790625833268056370
+    second: Tp5-Tiles_238
+  - first:
+      213: 6416420616333515657
+    second: Tp5-Tiles_239
+  - first:
+      213: -4480636531027876724
+    second: Tp5-Tiles_240
+  - first:
+      213: -2691432485519304375
+    second: Tp5-Tiles_241
+  - first:
+      213: -5133526154278933501
+    second: Tp5-Tiles_242
+  - first:
+      213: -3215009352678040655
+    second: Tp5-Tiles_243
+  - first:
+      213: 2899376384654233178
+    second: Tp5-Tiles_244
+  - first:
+      213: -2076664305872142746
+    second: Tp5-Tiles_245
+  - first:
+      213: -461630185780990298
+    second: Tp5-Tiles_246
+  - first:
+      213: -1115597688628864992
+    second: Tp5-Tiles_247
+  - first:
+      213: 427367827218393000
+    second: Tp5-Tiles_248
+  - first:
+      213: -5570377140216139190
+    second: Tp5-Tiles_249
+  - first:
+      213: 2461096310786323122
+    second: Tp5-Tiles_250
+  - first:
+      213: -748126599362144840
+    second: Tp5-Tiles_251
+  - first:
+      213: 6884309201227039245
+    second: Tp5-Tiles_252
+  - first:
+      213: 250231796271496574
+    second: Tp5-Tiles_253
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tp5-Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82a9debb5288f34c9afa3fee65dd41d
+      internalID: -4315781900966731848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f44e421c81d8884e873f3626fe545ea
+      internalID: 1471261288552062194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af1300d399e7624e94981b271ffaba3
+      internalID: 4980157005283294850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6717c3dc065af90468d207f5e0ae94d3
+      internalID: -70336322141772559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc59ba72e49a3340919866ed53eefb9
+      internalID: 2272124724136155154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b74167f100ffd43a97e61fa96eabc9
+      internalID: -5973796381761046799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919e1f85cac022741ba3a8ea8a77270c
+      internalID: 2822013664585775407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59aca62052f79744bef850bcfc54a0e
+      internalID: 1331372158551018201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1aa526aa347d146b9550d199b55941
+      internalID: 368119202115330988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00e7c2e0c22f4c468f92274f49a1b72
+      internalID: -1917235936515866404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 952
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd1332254289004a81b8f1cddc8df2a
+      internalID: -3394433168544007841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b65206eb953b2347a88316067161439
+      internalID: 7598266155066860039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c66e95e104ef24c88a5c494841a411
+      internalID: -14823241942647268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e65fa12157aaa34caf2f138dc0784d3
+      internalID: -4432430902278154182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9e2882847954d429c8843c48df3b5f
+      internalID: 7401713144773631398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb540778a4d92b349ae15b7a11a43ffd
+      internalID: -4402952562277383794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1ff3d9340607d43adcd02877155b9e
+      internalID: -1071024897549994352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7bae0b2990a30439dbe199422835da
+      internalID: -7887921633133220738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda744fb623af644597946d1af2c4f77
+      internalID: 4620786749790033785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dfd2d9a6ae7624985f21ca7ba58ecc
+      internalID: 4128911479546789808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e492c166b9b29aa45af338b9f3af5500
+      internalID: -7847642119497294071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0615c19996880e0479d23b72fb18d939
+      internalID: -5688666405822128354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 824
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e692fca037ed04b9f54ecd344369d2
+      internalID: 3732062435828328604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc615b99587627498440e063f24785c
+      internalID: -4893138667994635498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510e7c997b6271f43913e74887f4f4eb
+      internalID: 9167593718693163058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1623e01eaaff15a448982077765377b4
+      internalID: 2384048439694444387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de0db0e32507814f969c7c73b8bc00c
+      internalID: 4096630673943944559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dcdac8e04876c4c95008039e918d8d
+      internalID: 2855226637360535827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af80738bdb583d44a1bf262de10b061
+      internalID: -3580449121343962048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb112867c39168447bfd8cf7f01bc896
+      internalID: 195223961099368697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8361d9fad1eedc468708a5ed2c1c839
+      internalID: -5713786073179148193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91770dc31aab3bb4d90ea8581f721d05
+      internalID: -4282080004750875171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d03f7363d59c384c94f8a78d23d283a
+      internalID: -7593835621827702460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fd9dfa5c5fc4844b3f738f3c71c2f6
+      internalID: -288068438941656071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7ba91f07734cc458e0c9f2af0df3c0
+      internalID: -1443677934209596287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602e767969be21e4f8994d602bab0a51
+      internalID: -1165697086192022928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d041c6d2c7a6145879e86a08f1f382
+      internalID: -5699280031324370322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c269a59bd912c4cac5da3ac9a4dfdf
+      internalID: 4789620409921348826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975b36cd070055745a6ac7ef48245038
+      internalID: -6426107261831214420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8153214bc6958374faa6c9cbef3e9328
+      internalID: -243577201436508847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d917bd26e777e0429f48fd18550b33c
+      internalID: 7969646054830126417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edac88fa415108e4a86392d753f24fd0
+      internalID: 3885894004023168883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af52f8b9d825014b9e2170b50d4481d
+      internalID: -5957476732777151699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e64a61603460e4091f56d2308b8608
+      internalID: -4494150335058634181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468eb3cac404527488d87b65ea8007ae
+      internalID: -1892094031623245757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 568
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ff8c699ac2f704fa92c8e0a5cc70ef
+      internalID: -3571150958597022751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0247814ab8562df49af0b34d48685b32
+      internalID: 9148500583425433134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e9c7579ca7fd948850010513ff79fd
+      internalID: 5886094634898225505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84d17ef59a78b344aabf45dd6cd80b8
+      internalID: -4371224894702251284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b698e89589a90544f8b7dfd44fbd1fa8
+      internalID: 1889725684270554338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ac8c841accddc4a969810da1d1bb9b
+      internalID: -5361360874907968805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cc83e5a9008c04ab74b0ac43539771
+      internalID: -6685097180516669890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a86f95a04ab2c4999a5f5e6245bb86
+      internalID: 8390713592294753864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdc02f0447f6ed49ad364aeb4bdd92f
+      internalID: 759006291882491115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bed5b7e51ee9e94098e9d38d82a37d1
+      internalID: 5053377678640990838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4d9307aeb9ae8428e3ff161cb30c89
+      internalID: 1736111326688175806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463e9c5efa28919449909009380d972f
+      internalID: -3089324040115593669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 440
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986074fd2417fb24a9afc3328ea056b2
+      internalID: -7414497387544015116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9105a750d73ae942988ae39b100ac16
+      internalID: 7276875373273935978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0adb96c5c7fe644a65adb510e2958c
+      internalID: 1526803969151107890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1e8bd664f738e488ec18f399161fcd
+      internalID: -4345910375014511686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73896f0fc1cdc1a42aacefbf31b01615
+      internalID: 2263062545108577861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d815b583ccbf8c04592679aa530ebfd3
+      internalID: -1693726470945740226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9237ee6f8c1c6d14ca2d84d49dd11c8f
+      internalID: -3977408789074265051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_64
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4a1372d4871154aba66d1ebe0866b5
+      internalID: 2249724274801301348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54109417308b37640aec05aa186e4188
+      internalID: 2763698963078797024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08072b53561fd4b42a04e2b42a5a8f9c
+      internalID: 6552921204358088117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_67
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42ef3cd976d08740a6591785c046360
+      internalID: -6170377175256417125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_68
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53a3432e1cf1a640b89dc9b24079f7b
+      internalID: -3737932671469819388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_69
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 312
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3319c6420501f394bbaf73ccf2b95704
+      internalID: 904141000473218301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e72c8c2546baa94db2a0766223d8a7d
+      internalID: 6537462332090323878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04add6c91f3bc3b43b89b28285def8b0
+      internalID: 8268274280178423929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07df43b800b1138489ddd2dbbbbad352
+      internalID: 747997080564516746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711dc14f011362248af609933a31917e
+      internalID: -7012122165740290215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46121068229f1f44883aad21e2678ef5
+      internalID: 5070304689855461060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc95d016400c6a24290f18cf961cb980
+      internalID: 2947139862519905000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186f827e39d4f514db0178f4e1149942
+      internalID: 6403138929938674140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_77
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffdcce6e065e6e4aa387576926228b2
+      internalID: 6629777041912346073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_78
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe2d8fb7d14bc94581c2b3f3e9cc04a
+      internalID: 8098545614066311916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_79
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46b116a1d11099428bfa4fc2ce76a2e
+      internalID: -4400823833299781139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_80
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458dc80a94edd9146b03a61e88eae2b8
+      internalID: -6462602074345992556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_81
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 184
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc465e3de5f1eb4893cfe9283ed12d5
+      internalID: 1381330257635030470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882e5685b0b81094095ce660f6229a83
+      internalID: 1976352621849548267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156dc627621051847b2d9faf00e06191
+      internalID: 2330159065707581996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da03f0f96ea06ed4c8da0a2b915674db
+      internalID: -7830971438550676177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_85
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ba06a1114a1a24e85d9f6fc8cf2acf
+      internalID: -3717826037738278239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a093995b9bb5b0749aef28cdbe26bfff
+      internalID: 3887325414317090663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_87
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded54c35eeed9064a82e2d4f4e195fec
+      internalID: 88061853899850217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_88
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fe3cc9067504242b477f14a8e622fd
+      internalID: 5209677729698821882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_89
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf60f4162dfdf7e43be11a2009cf3477
+      internalID: -4839404721199090277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_90
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fdc6bd3709d77498367132f3251feb
+      internalID: -5368050905463791436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_91
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16dd26911dd05247b07fe1cadfe9d08
+      internalID: -3815755522730607662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_92
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f752f5d53af0645b1b9be1fdb8d71c
+      internalID: -5183541488233458581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tp5-Tiles_93
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 56
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c563880480db44c84fcd4dd71ae03a
+      internalID: 5319125358398951825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

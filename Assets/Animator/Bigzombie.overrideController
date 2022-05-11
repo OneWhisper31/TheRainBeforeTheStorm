@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bigzombie
+  m_Controller: {fileID: 9100000, guid: 4e854634eac03fb41937d3fc41e5bb20, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 56d1e3c6fcca5b94a98c39eb2de928b8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: efeda544509124845a524c79f0e8c8aa, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ee542f390c5e49247a2bbd4df7f4ef7a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b1061a1b90d0df3418ff08db6153f65a, type: 2}
